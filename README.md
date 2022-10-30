@@ -17,6 +17,4 @@ rocket Supports all width sizes including macbooks as well!
 
 rocket Mobile device support with various screen widths including iPads which comes with a Hamburger menu on top!
 
-
-https://user-images.githubusercontent.com/86519740/198894292-9eb06ad9-7865-4ccb-90d4-0475d251b7da.png
-
+![alt text](https://github.com/rishabhv12/Portfolio/blob/main/portfolio.png?raw=true)
