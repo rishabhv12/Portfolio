@@ -13,8 +13,5 @@ Deploy link - https://rishabhverma.netlify.app/
 - Custom navbar for mobile devices (Hamburger menu)
 
 For the email service I have used EmailJs as it can send Email Directly From JavaScript and there's no need for a server.
-rocket Supports all width sizes including macbooks as well!
-
-rocket Mobile device support with various screen widths including iPads which comes with a Hamburger menu on top!
 
 ![alt text](https://github.com/rishabhv12/Portfolio/blob/main/assets/portfolio.png?raw=true)
