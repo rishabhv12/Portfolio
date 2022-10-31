@@ -1,6 +1,6 @@
 # Portfolio
 
-Deploy link - https://rishabhverma.netlify.app/
+Deploy link - https://rishabhv12.github.io/Portfolio/
 
 # A portfolio using HTML5, CSS3 & JavaScript!
 
