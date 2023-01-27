@@ -124,7 +124,7 @@
    },
  
    display_enb = function(){
-     for(var i=0; i<7; i++){
+     for(var i=0; i<8; i++){
        section[i].style.display = "flex";
      }
    }
@@ -311,7 +311,7 @@
  };
 
  document.getElementById("weather-link-btn").onclick = function () {
-  window.open("https://weather-app-rishabh.herokuapp.com/", '_blank');
+  window.open("https://city-weather.up.railway.app/", '_blank');
 }
 document.getElementById("weather-code-btn").onclick = function () {
   window.open("https://github.com/rishabhv12/Weather-app", '_blank');
